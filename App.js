@@ -3,7 +3,6 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
-  var c='hi';
   return (
     <View style={styles.container}>
       <Text>Yo Boi. Testing automatic Deploy part 2.</Text>
